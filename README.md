@@ -61,7 +61,16 @@ A web-based quiz application with gamification features, built using React and N
 - localStorage (for data persistence)
 
 ## How does the Quiz Website looks 
-
+Front Page 
+![image](https://github.com/user-attachments/assets/9cb77bdf-7e79-4cd4-8b83-2961653136a6)
+Question Page (Questions via API)
+![image](https://github.com/user-attachments/assets/a526b8c2-e5a5-4669-b150-435d62e4379c)
+Added Timer and Hint Effect
+![image](https://github.com/user-attachments/assets/ae39d600-3c6b-419e-8a28-0eca03782360)
+Progress Tracker
+![image](https://github.com/user-attachments/assets/31a44976-e03c-4921-acc1-5f6489254d81)
+Result Page 
+![image](https://github.com/user-attachments/assets/b1c274df-a260-4d86-83bf-40dba2b403c4)
 
 ## Future Improvements
 
