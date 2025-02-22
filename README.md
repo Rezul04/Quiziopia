@@ -36,14 +36,18 @@ A web-based quiz application with gamification features, built using React and N
    \`\`\`
    npm install
    \`\`\`
-
-3. Run the development server:
+3. Server instantiate
+    \`\`\`
+   node server.js
+   \`\`\`
+4. Run the development server:
    \`\`\`
    npm run dev
    \`\`\`
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
-
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+   
+6. Or use the deployed link to access the website - https://quiziopia.netlify.app/
 ## Project Structure
 
 - `src/`: Contains the main application code
