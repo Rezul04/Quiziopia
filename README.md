@@ -1,6 +1,6 @@
 # Quiz App
 
-Web-based quiz application with gamification features, built using React and Next.js.
+A web-based quiz application with gamification features, built using React and Next.js.
 
 ## Features
 
